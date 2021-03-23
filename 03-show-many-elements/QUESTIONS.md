@@ -6,4 +6,4 @@
 
 > How did you go about hiding elements initially?
 
-Your reply here...
+Vienkārši viņu tagā es pievienoju stila atribūtu un iestatīju to parādīt: neviens.
