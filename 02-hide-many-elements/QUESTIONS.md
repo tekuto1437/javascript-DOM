@@ -12,4 +12,4 @@ Jums jāizmanto .getElementsByClassName (). Iekšā () jūs norādāt, kuru klas
 
 > Describe how you were able to hide each element. Were you able to do it as one operation, or did you use a loop of some kind? Describe the "contracts" that were utilized to accomplish your goal.
 
-Lai pārvietotos pa savāktajiem priekšmetiem, tika izmantota cilpa. Bija jānorāda cikla lielums un ko darīt ar katru klases atribūtu.
+Es izmantoju ciklu, jo man tas likas visas ērtākais un parocīgākais variants. 
